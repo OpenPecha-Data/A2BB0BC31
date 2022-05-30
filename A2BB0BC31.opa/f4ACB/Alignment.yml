@@ -1,0 +1,16 @@
+segment_sources:
+  I51041ADA:
+    type: origin_type
+    relation: translation
+    language: en
+  IDB99FE99:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0bcedec4219e47ff987c669587570fcd:
+    I51041ADA: 713e2359e98a434fbbfaf24d6fa322c1
+    IDB99FE99: 4d5fe208f1334c50b974a8825ab7bcfd
+  0ae90955f0d14b84b087fdee5e9e1b7a:
+    I51041ADA: 13a74faab9f24c8b8526664286060d14
+    IDB99FE99: ef0d21831fd54fac97494959e754f1d1
